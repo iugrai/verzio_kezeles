@@ -9,3 +9,7 @@
 # zsolti dolgozik ebbe a file-ba
 # a 10.-ik sorba Kitti kódja van
 # 10.-ik sorban Zsolti kódja van
+
+Ezek itt új sorok
+holnap jó napom lesz
+vagy nem lesz jó napom
