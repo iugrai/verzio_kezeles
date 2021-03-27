@@ -7,3 +7,4 @@
 # kitti újra dolgozik ebbe a fájlba, szombaton
 
 # zsolti dolgozik ebbe a file-ba
+# 10.-ik sorban Zsolti kódja van
