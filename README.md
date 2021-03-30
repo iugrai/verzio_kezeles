@@ -14,8 +14,6 @@ Ezek itt új sorok
 holnap jó napom lesz
 vagy nem lesz jó napom
 # itt egy gyors modósítás
-<<<<<<< HEAD
 # zsolti dolgozik ide
-=======
 # kitti beleyr ebbe a fájlba 
->>>>>>> 0db436458e2cef6629e56fc8620210cd57a70ec4
+# cdeckoutoltam az origin-t, detached HEAD üznemódott eredményezett
