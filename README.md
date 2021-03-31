@@ -1,6 +1,7 @@
 
 # Ez egy címsor1
 
+<<<<<<< HEAD
 # kitti újra dolgozik ebbe a fájlba, szombatonn
 
 # ezt ide írja kitti szombaton
@@ -19,3 +20,6 @@ vagy nem lesz jó napom
 # kitti beleyr ebbe a fájlba 
 # cdeckoutoltam az origin-t, detached HEAD üznemódott eredményezett
 # Zsolti ismét dolgozik ide március 31.-én
+=======
+# kitti dolgozik ebbe a fájlba
+>>>>>>> 24e1cb33302224e1eff8e6392f80856a5c68b0d2
