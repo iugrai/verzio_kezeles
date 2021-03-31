@@ -5,3 +5,4 @@
 
 # ezt ide írja Kitti
 # Zsolti dolgozik ebbe a fájlba
+# 8.-k sorban Zsolti kódja van
