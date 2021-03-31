@@ -15,4 +15,9 @@ holnap jó napom lesz
 vagy nem lesz jó napom
 # itt egy gyors modósítás
 # zsolti dolgozik ide
+<<<<<<< HEAD
 # kitti beleyr ebbe a fájlba 
+=======
+# kitti beleyr ebbe a fájlba 
+# cdeckoutoltam az origin-t, detached HEAD üznemódott eredményezett
+>>>>>>> 9d196edae6c2806292d2c33df698022f817bd357
