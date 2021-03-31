@@ -18,3 +18,4 @@ vagy nem lesz jó napom
 # kitti beleyr ebbe a fájlba 
 # kitti beleyr ebbe a fájlba 
 # cdeckoutoltam az origin-t, detached HEAD üznemódott eredményezett
+# Kitti beleir a file-ba
