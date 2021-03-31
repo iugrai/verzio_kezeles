@@ -6,3 +6,4 @@
 # ezt ide írja Kitti
 # Zsolti dolgozik ebbe a fájlba
 # 8.-ik sorban Kitti kódja van
+# 8.-k sorban Zsolti kódja van
